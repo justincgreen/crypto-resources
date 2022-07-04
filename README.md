@@ -11,6 +11,13 @@
 | ----------- | ----------- | ----------- |
 | [Ledger Nano X](https://shop.ledger.com/pages/ledger-nano-x) | How to set up Ledger Nano X cold storage | [source](https://www.youtube.com/watch?v=GNv3uPfqUdg) |
 ---
+---
+## Exchanges :credit_card:
+| Topic | Description | Link |
+| ----------- | ----------- | ----------- |
+| Coinbase | Coinbase is an online platform for buying, selling, transferring, and storing cryptocurrency.| [source](https://www.coinbase.com/) |
+| Uphold | Coinbase is an online platform for buying, selling, transferring, and storing cryptocurrency.| [source](https://www.coinbase.com/) |
+---
 ## Prices :moneybag:
 | Topic | Description | Link |
 | ----------- | ----------- | ----------- |
