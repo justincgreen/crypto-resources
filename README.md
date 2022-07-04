@@ -9,14 +9,17 @@
 ## Cold Storage :closed_lock_with_key:
 | Topic | Description | Link |
 | ----------- | ----------- | ----------- |
-| [Ledger Nano X](https://shop.ledger.com/pages/ledger-nano-x) | How to set up Ledger Nano X cold storage | [source](https://www.youtube.com/watch?v=GNv3uPfqUdg) |
+| [Ledger Nano X](https://shop.ledger.com/pages/ledger-nano-x) | How to set up Ledger Nano X cold storage. | [source](https://www.youtube.com/watch?v=GNv3uPfqUdg) |
 ---
 ---
 ## Exchanges :credit_card:
 | Topic | Description | Link |
 | ----------- | ----------- | ----------- |
 | Coinbase | Coinbase is an online platform for buying, selling, transferring, and storing cryptocurrency.| [source](https://www.coinbase.com/) |
-| Uphold | Coinbase is an online platform for buying, selling, transferring, and storing cryptocurrency.| [source](https://www.coinbase.com/) |
+| Binance.US | Buy Bitcoin, Ethereum, BNB & 100+ cryptocurrencies from the world's largest crypto brand.| [source](https://www.binance.us/) |
+| Kraken | Buy, sell, trade and learn about crypto. | [source](https://www.kraken.com/en-us/) |
+| Uphold | Uphold is a global multi-asset digital trading platform. | [source](https://uphold.com/en-us) |
+| Voyager | Fund your account and instantly trade all of your favorite coins. | [source](https://www.investvoyager.com/) |
 ---
 ## Prices :moneybag:
 | Topic | Description | Link |
