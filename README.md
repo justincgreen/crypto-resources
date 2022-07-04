@@ -1,4 +1,5 @@
-# Crypto Resources ![Bitcoin](https://raw.githubusercontent.com/justincgreen/coin-pouch/main/src/images/btc-loader.gif)
+![Bitcoin](https://raw.githubusercontent.com/justincgreen/coin-pouch/main/src/images/btc-loader.gif)
+# Crypto Resources
 ### A list of resources related to crypto
 ---
 ## Cold Storage :closed_lock_with_key:
