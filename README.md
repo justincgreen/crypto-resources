@@ -28,3 +28,7 @@
 | ----------- | ----------- | ----------- |
 | CoinMarketCap | View top cryptocurrency prices live, crypto charts, market cap, and trading volume. | [source](https://coinmarketcap.com/) |
 | CoinGecko | View top cryptocurrency prices live, crypto charts, market cap, and trading volume. | [source](https://www.coingecko.com/) |
+## Staking :gem:
+| Topic | Description | Link |
+| ----------- | ----------- | ----------- |
+| Coinbase | Put your crypto to work by staking your crypto with Coinbase.| [source](https://www.coinbase.com/staking) |
