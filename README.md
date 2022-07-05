@@ -17,6 +17,7 @@
 | ----------- | ----------- | ----------- |
 | Coinbase | Coinbase is an online platform for buying, selling, transferring, and storing cryptocurrency.| [source](https://www.coinbase.com/) |
 | Binance.US | Buy Bitcoin, Ethereum, BNB & 100+ cryptocurrencies from the world's largest crypto brand.| [source](https://www.binance.us/) |
+| Crypto.com | Join 50M+ users buying and selling 250+ cryptocurrencies at true cost | [source](https://crypto.com/) |
 | Kraken | Buy, sell, trade and learn about crypto. | [source](https://www.kraken.com/en-us/) |
 | Uphold | Uphold is a global multi-asset digital trading platform. | [source](https://uphold.com/en-us) |
 | Voyager | Fund your account and instantly trade all of your favorite coins. | [source](https://www.investvoyager.com/) |
